@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--cores padrões-->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--cores para a tela da netflix-->
+    <color name="vermelho_principal">#d61e21</color>
+    <color name="vermelho_secundario">#780000</color>
+    <color name="fundo_netflix">#FF393939</color>
+
+</resources>
